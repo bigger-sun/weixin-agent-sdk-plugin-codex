@@ -1,0 +1,8 @@
+{
+  "name": "weixin-agent-sdk-plugin-codex",
+  "version": "1.0.0",
+  "description": "微信 AI Agent 桥接 — 扫码授权后，让 Codex 在微信里收发消息、图片、视频、文件",
+  "author": {
+    "name": "bigge"
+  }
+}
